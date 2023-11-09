@@ -1,0 +1,15 @@
+H:\Visual Studio 2022\Queue test\Queue test\bin\Debug\net6.0\Queue test.exe
+H:\Visual Studio 2022\Queue test\Queue test\bin\Debug\net6.0\Queue test.deps.json
+H:\Visual Studio 2022\Queue test\Queue test\bin\Debug\net6.0\Queue test.runtimeconfig.json
+H:\Visual Studio 2022\Queue test\Queue test\bin\Debug\net6.0\Queue test.dll
+H:\Visual Studio 2022\Queue test\Queue test\bin\Debug\net6.0\Queue test.pdb
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\Queue test.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\Queue test.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\Queue test.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\Queue test.AssemblyInfo.cs
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\Queue test.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\Queue test.dll
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\refint\Queue test.dll
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\Queue test.pdb
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\Queue test.genruntimeconfig.cache
+H:\Visual Studio 2022\Queue test\Queue test\obj\Debug\net6.0\ref\Queue test.dll
